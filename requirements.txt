@@ -1,0 +1,6 @@
+gunicorn==19.7.1
+Flask==0.12.2
+requests
+numpy==1.14.2
+
+future
